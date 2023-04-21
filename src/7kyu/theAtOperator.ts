@@ -1,25 +1,22 @@
-export function evaluate(equation: string) {
+export function evaluate(equation: string): number | null {
+  const operands: number[] = equation.split('@').map(Number);
+
+  return !operands.slice(1).includes(0)
+    ? operands.reduce((a, b) => a + b + (a - b) + a * b + ~~(a / b))
+    : null;
+}
+export function evaluateV2(equation: string) {
     const r = equation.split('@').map(Number).reduce((a, b) => (a + b) + (a - b) + (a * b) + (b === 0 ? NaN : a / b | 0));
     return isNaN(r) ? null : r;
   }
 
 export function evaluateV1(equation: string) {
-    let values = equation.split('@').filter(c => c !== '@').map(n => parseInt(n));
-    
-    for(let i = 0; i + 1 < values.length; i++)
-    {
-        if(values[i + 1] === 0) {
-            return null;
-        }
-
-        let a = values[i];
-        let b = values[i + 1];
-        let calc = (a + b) + (a - b) + (a * b) + ~~(a / b); // That ~~ is a double NOT bitwise operator.
-        values[i + 1] = calc;
-    }
-
-    return values[values.length-1];
-  }
+  if(equation.replace(/\s/g, '').substring(1).includes('@0'))
+  {
+    return null;
+  }    
+  return equation.split('@').filter(c => c !== '@').map(Number).reduce((a, b) => (a + b) + (a - b) + (a * b) + ~~(a / b));
+}
 
 // About '~~'
 // It is used as a faster substitute for Math.floor() for positive numbers. 
