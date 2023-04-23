@@ -1,0 +1,11 @@
+## 6kyu Solutions
+- [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
+- [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+- [Arrh, grabscrab!](https://www.codewars.com/kata/52b305bec65ea40fe90007a7)
+- [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+- [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
+- [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
+- [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
+- [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
+- [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
+- [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
