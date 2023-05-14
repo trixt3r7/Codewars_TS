@@ -3,6 +3,7 @@
 - [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
+- [Equal sides of an Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 - [Length of missing array](https://www.codewars.com/kata/57b6f5aadb5b3d0ae3000611)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 - [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
