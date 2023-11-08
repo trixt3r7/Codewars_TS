@@ -1,6 +1,7 @@
 ## 7kyu Solutions
 - [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 - [Digit*Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
+- [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 - [Exes and Ohs](https://www.codewars.com/kata/55908aad6620c066bc00002a)
 - [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 - [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
