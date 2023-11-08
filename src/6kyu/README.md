@@ -1,6 +1,9 @@
 ## 6kyu Solutions
+- [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 - [Arrh, grabscrab!](https://www.codewars.com/kata/52b305bec65ea40fe90007a7)
 - [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)
+- [CamelCase Method](https://www.codewars.com/kata/587731fda577b3d1b0001196)
+- [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
 - [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 - [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 - [Equal sides of an Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
@@ -9,4 +12,5 @@
 - [Pyramid Array](https://www.codewars.com/kata/515f51d438015969f7000013)
 - [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 - [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
+- [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 - [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
