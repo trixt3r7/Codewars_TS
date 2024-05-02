@@ -10,5 +10,6 @@
 - [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 - [Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
 - [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003)
+- [String ends with?](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d)
 - [The @ Operator](https://www.codewars.com/kata/631f0c3a0b9cb0de6ded0529)
 - [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
